@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------------------------------------------------------------------------------------------------------------------
 
 JavaScript/TypeScript Developer
--------------------------------
 
 Full-Stack Developer with 1+ years of experience that is also passionate about learning new technologies.
 
